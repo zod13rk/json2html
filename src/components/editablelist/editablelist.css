@@ -1,0 +1,14 @@
+.listplus {
+	background: rgb(255, 239, 239);
+}
+.listplus > header > h1 {
+	display: inline;
+}
+
+.listplus > table {
+	border: 1px solid black;
+}
+
+.listplus > table > tr:first-child {
+	border: 10px solid black;
+}
